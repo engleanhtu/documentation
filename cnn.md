@@ -22,3 +22,5 @@ http://cv-tricks.com/
 http://machinelearningcoban.com/
 http://machinelearningmastery.com/blog/
 ======================
+#TaiLieu
+https://arxiv.org/pdf/1409.1556.pdf
