@@ -1,0 +1,33 @@
+#LastUpdated 18/05/2017
+#HuongDanCaiDatThuVienPythonTrenUbuntu
+
+#CaiDatGoogleChrome
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt-get install -f
+sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+
+#CaiDatPycharmCommunity
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+sudo apt-get update
+sudo apt-get install pycharm-community
+
+#InstallPip3
+sudo python3 get-pip.py
+sudo apt-get install python3.5 python3.5-dev
+sudo apt-get -y install python3.pip
+
+#InstallOpenCVLib
+pip3 install opencv-python
+
+#InstallTensorFlowLib
+pip3 install tensorflow
+
+#InstallCacThuVienKhac
+pip3 install scipy
+pip3 install scikit-learn
+pip3 install matplotlib
+sudo apt-get install python3.5-tk
+
+#InstallTheanoLib
+pip3 install Theano
+
