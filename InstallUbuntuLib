@@ -31,3 +31,8 @@ sudo apt-get install python3.5-tk
 #InstallTheanoLib
 pip3 install Theano
 
+#InstallTensorpack
+git clone https://github.com/ppwwyyxx/tensorpack
+pip3 install --user -r tensorpack/requirements.txt
+pip3 install -U git+https://github.com/ppwwyyxx/tensorpack.git
+
