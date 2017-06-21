@@ -16,6 +16,7 @@ sudo python3 get-pip.py
 sudo apt-get install python3.5 python3.5-dev
 sudo apt-get -y install python3.pip
 
+==> CHU Y NEU CAI DAT CAC THU VIEN DUOI KO DC THI THEM sudo truoc pip3
 #InstallOpenCVLib
 pip3 install opencv-python
 
