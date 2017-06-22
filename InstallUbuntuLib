@@ -39,3 +39,6 @@ pip3 install -U git+https://github.com/ppwwyyxx/tensorpack.git
 
 #InstallPygame
 pip3 install pygame
+
+#InstallSimpleCV
+pip3 install simplecv
