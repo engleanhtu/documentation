@@ -37,3 +37,5 @@ git clone https://github.com/ppwwyyxx/tensorpack
 pip3 install --user -r tensorpack/requirements.txt
 pip3 install -U git+https://github.com/ppwwyyxx/tensorpack.git
 
+#InstallPygame
+pip3 install pygame
