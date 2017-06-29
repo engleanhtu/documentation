@@ -42,3 +42,6 @@ pip3 install pygame
 
 #InstallSimpleCV
 pip3 install simplecv
+
+#[Errno 2] No such file or directory: 'ffmpeg'
+sudo apt-get install libav-tools
